@@ -193,10 +193,12 @@ body {
 }
 
 .statue_photo {
-   width: 640.27px;
+   width: 90%;
    height: 731.89px;
    background-image: url(../PHOTOS/statue.jpg);
    margin-top: 17%;
+   border: 2px solid black;
+   background-size: 100% 100%;
 }
 .statue_border {
    width: 37%;
@@ -240,6 +242,7 @@ body {
    width: 50%;
    height: 659.14px;
    background-image: url(../PHOTOS/donut.jpg);
+   background-size: 100% 100%;
 }
 
 .candles_info_text {
@@ -317,14 +320,14 @@ body {
    width: 100%;
    height: 750px;
    background-image: url(../PHOTOS/printest_torch.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Marevo_2_photo {
    width: 100%;
    height: 750px;
    background-image: url(../PHOTOS/Palm_Spear_torch.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 
@@ -332,11 +335,11 @@ body {
    width: 100%;
    height: 751.4px;
    background-image: url(../PHOTOS/Mini_torch.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Marevo_1_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -354,7 +357,7 @@ body {
 }
 
 .Marevo_2_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -372,7 +375,7 @@ body {
 }
 
 .Marevo_3_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -525,14 +528,14 @@ body {
    width: 100%;
    height: 751.4px;
    background-image: url(../PHOTOS/bowl_torch.jpg);\
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Zarevo_2_photo {
    width: 100%;
    height: 751.4px;
    background-image: url(../PHOTOS/regular_torch.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 
@@ -540,11 +543,11 @@ body {
    width: 100%;
    height: 750px;
    background-image: url(../PHOTOS/collection_torch.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Zarevo_1_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -564,7 +567,7 @@ body {
 }
 
 .Zarevo_2_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -584,7 +587,7 @@ body {
 }
 
 .Zarevo_3_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -767,26 +770,25 @@ body {
    width: 100%;
    height: 500px;
    background-image: url(../PHOTOS/pastille_1.jpg);\
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Pastille_2_photo {
    width: 100%;
    height: 500px;
    background-image: url(../PHOTOS/pastille_2.jpg);
-   background-size: cover;
-}
+   background-size: 100% 100%;}
 
 
 .Pastille_3_photo {
    width: 100%;
    height: 500px;
    background-image: url(../PHOTOS/pastille_3.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Pastille_1_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -806,7 +808,7 @@ body {
 }
 
 .Pastille_2_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -826,7 +828,7 @@ body {
 }
 
 .Pastille_3_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -1043,14 +1045,14 @@ body {
    width: 100%;
    height: 751.4px;
    background-image: url(../PHOTOS/Form_1.jpg);\
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Forms_2_photo {
    width: 100%;
    height: 751.4px;
    background-image: url(../PHOTOS/Form_2.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 
@@ -1058,11 +1060,11 @@ body {
    width: 100%;
    height: 750px;
    background-image: url(../PHOTOS/Form_3.jpg);
-   background-size: cover;
+   background-size: 100% 100%;
 }
 
 .Forms_1_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -1083,7 +1085,7 @@ body {
 }
 
 .Forms_2_text {
-   width: 448.4px;
+   width: 100%;
    height: 56px;
    border-bottom: 2px solid black;
 
@@ -1103,7 +1105,7 @@ body {
 }
 
 .Forms_3_text {
-   width: 448.4px;
+   width: 100%d;
    height: 56px;
    border-bottom: 2px solid black;
 
